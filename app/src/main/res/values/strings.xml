@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">starbuck</string>
+    <string name="applogo">Starbucks</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Cafes</item>
+    </string-array>
+</resources>
